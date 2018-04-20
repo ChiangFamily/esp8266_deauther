@@ -13,6 +13,12 @@ Or become a patron on <a href="https://patreon.com/spacehuhn" target="_blank">pa
 Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-stickers/">Stickers</a></b>!
 </p>
 
+# ESP8266_WIFI_attack
+
+![image](https://github.com/LilyGO/ESP8266_WIFI_attack/blob/master/images/image1.jpg)
+
+## arduino board set up
+![image](https://github.com/LilyGO/ESP8266_WIFI_attack/blob/master/images/set%20up.png)
 
 ## What is New
 [Here is a quick video about what is new](https://youtu.be/6oRmm3xfp6U)  
@@ -81,6 +87,7 @@ Happy Hacking!
 
 ## Credits
 A huge thanks to:
+- [@spacehuhn](https://github.com/spacehuhn)
 - [@deantonious](http://github.com/deantonious)
 - [@jLynx](https://github.com/jLynx)
 - [@lspoplove](https://github.com/lspoplove)
