@@ -15,10 +15,10 @@ Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-sti
 
 # ESP8266_WIFI_attack
 
-![image](https://github.com/LilyGO/ESP8266_WIFI_attack/blob/master/images/image1.jpg)
+![image](https://github.com/LilyGO/esp8266_deauther/blob/master/images/image1.jpg)
 
 ## arduino board set up
-![image](https://github.com/LilyGO/ESP8266_WIFI_attack/blob/master/images/set%20up.png)
+![image](https://github.com/LilyGO/esp8266_deauther/blob/master/images/set%20up.png)
 
 ## What is New
 [Here is a quick video about what is new](https://youtu.be/6oRmm3xfp6U)  
