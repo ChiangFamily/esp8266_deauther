@@ -35,7 +35,7 @@
   
   //create display(Adr, SDA-pin, SCL-pin)
   //SSD1306 display(0x3c, D1, D2);
-  SH1106 display(0x3c, D1, D2);
+  SH1106 display(0x3c, 5, 4);
   
   int rows = 3;
   int curRow = 0;
