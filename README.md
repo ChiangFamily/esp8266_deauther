@@ -1,4 +1,4 @@
-# ESP8266 Deauther 2.0
+# ESP8266 Deauther 1.6
 
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
@@ -12,6 +12,10 @@ Support the development of this project by purchasing one of the <a href="https:
 Or become a patron on <a href="https://patreon.com/spacehuhn" target="_blank">patreon.com/spacehuhn</a>.<br>
 Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-stickers/">Stickers</a></b>!
 </p>
+
+# ESP8266_WIFI_Deauther
+
+![image](https://github.com/LilyGO/esp8266_deauther/blob/master/images/image2.jpg)
 
 # ESP8266_WIFI_attack
 
